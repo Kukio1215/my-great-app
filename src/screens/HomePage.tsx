@@ -28,7 +28,7 @@ const HomePage: React.FC = () => {
         <Link to="/about">About</Link>
       </p>
       <MainImage />
-      <p>Hello!Again!</p>
+      <p>Hello!Hello!Hello!</p>
       <AsideImageOuter>
         <img
           alt="Sushi on white plate."
