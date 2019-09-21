@@ -27,8 +27,8 @@ const HomePage: React.FC = () => {
         →
         <Link to="/about">About</Link>
       </p>
-      <MainImage/>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi officia magnam sunt? Sunt harum obcaecati, fuga consequatur, suscipit recusandae totam expedita modi facilis, officiis facere nihil dignissimos tenetur asperiores aut?</p>
+      <MainImage />
+      <p>Hello</p>
       <AsideImageOuter>
         <img
           alt="Sushi on white plate."
